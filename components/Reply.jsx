@@ -15,7 +15,7 @@ export default function Reply(props) {
           className="rounded rounded-3 p-2"
           style={{ backgroundColor: "#E5E7EB" }}
         >
-          <span className="fw-semibold">{x.username}</span>
+          <span className="fw-semibold">YY</span>
           <br />
           <span>จริงค้าบบบบบบบบ</span>
         </div>
