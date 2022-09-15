@@ -21,7 +21,6 @@ export default function Home() {
         <Comment />
 
         {/* Reply Example */}
-        <Reply />
       </div>
     </div>
   );

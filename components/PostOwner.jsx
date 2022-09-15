@@ -16,7 +16,7 @@ export default function PostOwner(props) {
             Phanuwat Wongworrakulkit 640610660
           </span>
         </div>
-        <span>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</span>
+        <span>Quiz ยากจังเลยครับ ง่ายๆ กว่านี้ได้ไหม #261207</span>
         <div className="d-flex align-items-center gap-1">
           <img src="/like.svg" width={20}></img>
           <span className="text-muted">100 คน</span>
